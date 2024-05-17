@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1715351859 source:c:\users\marin\onedrive\documentos\nivelatorio\tp-archivos\main.c
+1715948374 source:c:\users\marin\onedrive\documentos\nivelatorio\tp-archivos\main.c
 	<stdio.h>
 	<stdlib.h>
+	"pila.h"
+
+1708954650 source:c:\users\marin\onedrive\documentos\nivelatorio\tp-archivos\pila.c
+	"pila.h"
+
+1708956625 c:\users\marin\onedrive\documentos\nivelatorio\tp-archivos\pila.h
+	<stdio.h>
+	<malloc.h>
 
